@@ -1,2 +1,2 @@
 # cda-project-lan
-Livret d'apprentissage numérique
+React app with a Rest API in nodejs. Livret d'apprentissage numérique
